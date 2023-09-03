@@ -1,130 +1,30 @@
-# Astro Boilerplate with TypeScript and Tailwind CSS [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+<h1 align="center">Hi 👋, I'm Stefan</h1>
+<h3 align="center">I'm a fullstack web3 developer from the Neteherlands.</h3>
 
-🚀 Astro Boilerplate is starter code for your blog or portfolio based on Astro
-with Tailwind CSS 3.0. ⚡️ Made with Astro, TypeScript, ESLint, Prettier,
-Tailwind CSS.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarringa&label=Profile%20views&color=0e75b6&style=flat" alt="swarringa" /> </p>
 
-Clone this project and use it to create your own Astro blog. You can check the
-[Astro templates demo](https://creativedesignsguru.com/demo/astro-boilerplate/).
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarringa" alt="swarringa" /></a> </p>
 
-## Features
+- 🌱 I’m currently learning **Game theory and smart contract security**
 
-A complete Blog feature:
+- 👨‍💻 All of my projects are available at [https://swarringa.github.io](https://swarringa.github.io)
 
-- 🎈 Syntax Highlighting
-- 🤖 SEO friendly with sitemap.xml and robots.txt
-- ⚙️ RSS feed
-- 📖 Pagination
-- 🌈 Include a dark blog theme
-- ⬇️ Markdown
-- 📦 Image lazy loading
-- 💎 Responsive design
+- 💬 Ask me about **Blockchain, Dapp development**
 
-Developer experience first:
+- 📫 How to reach me **swarringa@intreq.nl**
 
-- 🔥 Astro
-- 🎨 Tailwind CSS with aspect ratio and typography plugin
-- 🎉 TypeScript
-- ✏️ ESLint compatible with .astro files
-- 🛠 Prettier compatible with .astro files
-- 🦊 Husky
-- 🚫 lint-staged
-- 🚨 Commitlint
-- 🔧 One-click deploy on Netlify (or, manual if you prefer)
+- ⚡ Fun fact **I'm a flamenco afficionado!**
 
-ESLint with:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/swarringa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swarringa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stefanwarringa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanwarringa" height="30" width="40" /></a>
+<a href="https://kaggle.com/swarringa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swarringa" height="30" width="40" /></a>
+</p>
 
-- Airbnb styled guide
-- TypeScript compatible
-- Astro compatible
-- Automatically remove unused imports
-- Import sorting
-- Tailwind CSS plugin
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### Philosophy
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarringa&show_icons=true&locale=en&layout=compact" alt="swarringa" /></p>
 
-- Minimal code
-- SEO-friendly
-- 🚀 Production-ready
-
-### Requirements
-
-- Node.js and npm
-
-#### Optional
-
-- [nvm](https://github.com/nvm-sh/nvm)
-- [volta](https://volta.sh/)
-
-While Astro-boilerplate should work with the latest Node version, it has been
-tested with the versions in .nvmrc & the bottom of package.json. At current
-writing, that's Node v16.15.1
-
-### Getting started
-
-Run the following command on your local environment:
-
-``` bash
-git clone --depth=1 https://github.com/ixartz/Astro-boilerplate
-cd my-project-name
-npm install
-```
-
-Then, you can run locally in development mode with live reload:
-
-``` bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your favorite browser
-to see your project.
-
-### Deploy to production (manual)
-
-You can create an optimized production build with:
-
-```shell
-npm run build
-```
-
-Now, your blog is ready to be deployed. All generated files are located at
-`dist` folder, which you can deploy the folder to any hosting service you
-prefer.
-
-### Deploy to Netlify
-
-Clone this repository on own GitHub account and deploy to Netlify:
-
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Astro-boilerplate)
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command           | Action                                       |
-|:----------------  |:-------------------------------------------- |
-| `npm install`     | Installs dependencies                        |
-| `npm run dev`     | Starts local dev server at `localhost:3000`  |
-| `npm run build`   | Build your production site to `./dist/`      |
-| `npm run preview` | Preview your build locally, before deploying |
-| `npm run clean`   | Remove `./dist` folder                       |
-| `npm run lint`    | Run ESLint and report styling error          |
-
-### Contributions
-
-Everyone is welcome to contribute to this project.
-Feel free to open an issue if you have question or found a bug.
-
-### Additional Checks
-
-This README.md was linted with
-[markdownlint](https://github.com/igorshubovych/markdownlint-cli)
-
-### License
-
-Licensed under the MIT License, Copyright © 2022
-
----
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarringa&show_icons=true&locale=en" alt="swarringa" /></p>
