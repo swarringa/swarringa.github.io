@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">I'm a fullstack web3 developer from the Neteherlands.</h3>
+<h3 align="center">I'm a fullstack web3 developer from the Netherlands.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarringa&label=Profile%20views&color=0e75b6&style=flat" alt="swarringa" /> </p>
 
